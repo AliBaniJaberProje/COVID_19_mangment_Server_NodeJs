@@ -1,0 +1,19 @@
+npm install express --save بضيف البكج دوت جيوسن  وبضيف كمان و النود موديول
+npm install express-generator -g
+npm init nameproject
+express nameproject
+npm install nodemon --save
+ npm i nodemon -g
+npm install --save express-validator
+
+npm install --save express-session
+npm install bower -g
+
+npm install --save bcrypt
+npm install --save multer
+
+npm install jsonwebtoken
+npm install multer
+
+npm install dotenv
+npm install --save express express-session body-parser
